@@ -1,0 +1,2 @@
+# Clerk — bu authentication (login/signup) va user management uchun tayyor servis.
+# Kling ai -  rasmni animatsion qilib beradi
