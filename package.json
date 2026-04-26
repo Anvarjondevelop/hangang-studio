@@ -6,13 +6,21 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "db:push": "drizzle-kit push"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^3.0.53",
     "@clerk/nextjs": "^7.2.7",
+    "@imagekit/next": "^2.1.5",
+    "@imagekit/nodejs": "^7.5.0",
+    "@neondatabase/serverless": "^1.1.0",
     "@sentry/nextjs": "^10.50.0",
+    "ai": "^6.0.168",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "drizzle-kit": "^0.31.10",
+    "drizzle-orm": "^0.45.2",
     "lucide-react": "^1.11.0",
     "motion": "^12.38.0",
     "next": "16.1.6",
